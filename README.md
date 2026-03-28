@@ -9,5 +9,5 @@ stow -t ~ [module]
 
 Available dotfiles:
 - nvim
-- zsh
-- bash
+- ghostty
+- starship
